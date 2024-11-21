@@ -5,3 +5,4 @@ session_name.session
 sesi.session
 /plugin/__pycache__/
 /temp
+session_name.session-journal
